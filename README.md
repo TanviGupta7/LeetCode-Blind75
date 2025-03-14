@@ -1,4 +1,4 @@
-# LeetCode-Blind75
+# LeetCode-Most Important DSA Questions
 Leetcode Blind75 in Java
 
 <!---LeetCode Topics Start-->
