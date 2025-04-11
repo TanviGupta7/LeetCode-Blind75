@@ -22,6 +22,7 @@ Leetcode Blind75 in Java
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0070-climbing-stairs) |
+| [2998-count-symmetric-integers](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Dynamic Programming
 |  |
@@ -49,4 +50,8 @@ Leetcode Blind75 in Java
 |  |
 | ------- |
 | [0078-subsets](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
