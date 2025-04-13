@@ -1,21 +1,17 @@
 class Solution {
     public String removeStars(String s) {
-        String result = ""; // To store the final answer
+        StringBuilder sb = new StringBuilder();
 
-        for (int i = 0; i < s.length(); i++) {
-            char ch = s.charAt(i);
-
+        for (char ch : s.toCharArray()) {
             if (ch == '*') {
-                // Remove the last character if result is not empty
-                if (!result.isEmpty()) {
-                    result = result.substring(0, result.length() - 1);
-                }
+                // Remove the last character if star is found
+                sb.deleteCharAt(sb.length() - 1);
             } else {
-                // Append character to result
-                result += ch;
+                // Add character to result
+                sb.append(ch);
             }
         }
 
-        return result;
+        return sb.toString();
     }
 }
