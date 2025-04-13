@@ -41,6 +41,7 @@ Leetcode Blind75 in Java
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0022-generate-parentheses) |
+| [2470-removing-stars-from-a-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2470-removing-stars-from-a-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Backtracking
 |  |
@@ -66,4 +67,12 @@ Leetcode Blind75 in Java
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2050-count-good-numbers) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
