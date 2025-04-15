@@ -11,6 +11,7 @@ Leetcode Blind75 in Java
 | [0040-combination-sum-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0078-subsets) |
 | [1656-count-good-triplets](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1656-count-good-triplets) |
+| [2280-count-good-triplets-in-an-array](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2280-count-good-triplets-in-an-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
@@ -77,4 +78,28 @@ Leetcode Blind75 in Java
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2470-removing-stars-from-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2280-count-good-triplets-in-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2280-count-good-triplets-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2280-count-good-triplets-in-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
