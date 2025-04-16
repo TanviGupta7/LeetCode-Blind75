@@ -12,12 +12,14 @@ Leetcode Blind75 in Java
 | [0078-subsets](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0078-subsets) |
 | [1656-count-good-triplets](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1656-count-good-triplets) |
 | [2280-count-good-triplets-in-an-array](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2280-count-good-triplets-in-an-array) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0001-two-sum) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -102,4 +104,8 @@ Leetcode Blind75 in Java
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2280-count-good-triplets-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [2626-count-the-number-of-good-subarrays](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2626-count-the-number-of-good-subarrays) |
 <!---LeetCode Topics End-->
