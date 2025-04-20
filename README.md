@@ -10,6 +10,7 @@ Leetcode Blind75 in Java
 | [0039-combination-sum](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0078-subsets) |
+| [0797-rabbits-in-forest](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0797-rabbits-in-forest) |
 | [1656-count-good-triplets](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1656-count-good-triplets) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2280-count-good-triplets-in-an-array) |
@@ -21,6 +22,7 @@ Leetcode Blind75 in Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0001-two-sum) |
+| [0797-rabbits-in-forest](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0797-rabbits-in-forest) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -29,6 +31,7 @@ Leetcode Blind75 in Java
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0070-climbing-stairs) |
+| [0797-rabbits-in-forest](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0797-rabbits-in-forest) |
 | [2050-count-good-numbers](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2050-count-good-numbers) |
 | [2998-count-symmetric-integers](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -120,4 +123,8 @@ Leetcode Blind75 in Java
 |  |
 | ------- |
 | [2699-count-the-number-of-fair-pairs](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2699-count-the-number-of-fair-pairs) |
+## Greedy
+|  |
+| ------- |
+| [0797-rabbits-in-forest](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0797-rabbits-in-forest) |
 <!---LeetCode Topics End-->
