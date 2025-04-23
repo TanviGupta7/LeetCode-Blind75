@@ -24,6 +24,7 @@ Leetcode Blind75 in Java
 | ------- |
 | [0001-two-sum](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0001-two-sum) |
 | [0797-rabbits-in-forest](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0797-rabbits-in-forest) |
+| [1500-count-largest-group](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1500-count-largest-group) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -33,6 +34,7 @@ Leetcode Blind75 in Java
 | ------- |
 | [0070-climbing-stairs](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0070-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0797-rabbits-in-forest) |
+| [1500-count-largest-group](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2050-count-good-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2998-count-symmetric-integers](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2998-count-symmetric-integers) |
