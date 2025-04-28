@@ -1,31 +1,32 @@
-import java.util.*;
-
 class Solution {
-    public List<String> letterCombinations(String digits) {
-        List<String> ans = new ArrayList<>();
-        if (digits.isEmpty()) return ans;
-        pad("", digits, ans);
-        return ans;
-    }
-    
-    public void pad(String p, String up, List<String> ans) {
-        if (up.isEmpty()) {
-            ans.add(p);
+    private void solve(String digit, String output, int i, List<String> ans, String[] mapping) {
+        if (i >= digit.length()) {
+            ans.add(output);
             return;
         }
-        int digit = up.charAt(0) - '0'; //'2' to 2
 
-        int start = (digit - 2) * 3;
-        if (digit > 7) start += 1; // \U0001f525 Important correction
+        int num = digit.charAt(i) - '0';
+        String value = mapping[num];
 
-        int letters = 3;
-        if (digit == 7 || digit == 9) {
-            letters = 4;
+        for (int j = 0; j < value.length(); j++) {
+            solve(digit, output + value.charAt(j), i + 1, ans, mapping);
         }
+    }
+
+    public List<String> letterCombinations(String digit) {
+        List<String> ans = new ArrayList<>();
+        if (digit.length() == 0) {
+            return ans;
+        }
+
+        int i = 0;
+        String output = "";
+        String[] mapping = {
+            "",    "",    "abc",  "def", "ghi",
+            "jkl", "mno", "pqrs", "tuv", "wxyz"
+        };
         
-        for (int i = 0; i < letters; i++) {
-            char ch = (char)('a' + start + i);
-            pad(p + ch, up.substring(1), ans);
-        }
+        solve(digit, output, i, ans, mapping);
+        return ans;
     }
 }
