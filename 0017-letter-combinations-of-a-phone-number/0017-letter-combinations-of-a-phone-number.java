@@ -1,32 +1,42 @@
+import java.util.*;
+
 class Solution {
-    private void solve(String digit, String output, int i, List<String> ans, String[] mapping) {
-        if (i >= digit.length()) {
-            ans.add(output);
-            return;
-        }
-
-        int num = digit.charAt(i) - '0';
-        String value = mapping[num];
-
-        for (int j = 0; j < value.length(); j++) {
-            solve(digit, output + value.charAt(j), i + 1, ans, mapping);
-        }
-    }
-
-    public List<String> letterCombinations(String digit) {
+    public List<String> letterCombinations(String digits) {
         List<String> ans = new ArrayList<>();
-        if (digit.length() == 0) {
+        if (digits.isEmpty()) {
             return ans;
         }
 
-        int i = 0;
-        String output = "";
         String[] mapping = {
-            "",    "",    "abc",  "def", "ghi",
-            "jkl", "mno", "pqrs", "tuv", "wxyz"
+            "",     // 0
+            "",     // 1
+            "abc",  // 2
+            "def",  // 3
+            "ghi",  // 4
+            "jkl",  // 5
+            "mno",  // 6
+            "pqrs", // 7
+            "tuv",  // 8
+            "wxyz"  // 9
         };
-        
-        solve(digit, output, i, ans, mapping);
+
+        backtrack(digits, new StringBuilder(), 0, ans, mapping);
         return ans;
+    }
+
+    private void backtrack(String digits, StringBuilder output, int index, List<String> ans, String[] mapping) {
+        if (index >= digits.length()) {
+            ans.add(output.toString());
+            return;
+        }
+
+        int num = digits.charAt(index) - '0';
+        String letters = mapping[num];
+
+        for (int j = 0; j < letters.length(); j++) {
+            output.append(letters.charAt(j));
+            backtrack(digits, output, index + 1, ans, mapping);
+            output.deleteCharAt(output.length() - 1); // backtrack
+        }
     }
 }
