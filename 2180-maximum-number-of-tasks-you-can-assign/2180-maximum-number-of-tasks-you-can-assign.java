@@ -1,58 +1,47 @@
-class Solution {
+import java.util.*;
 
-    public int maxTaskAssign(
-        int[] tasks,
-        int[] workers,
-        int pills,
-        int strength
-    ) {
-        int n = tasks.length, m = workers.length;
+class Solution {
+    public int maxTaskAssign(int[] tasks, int[] workers, int pills, int strength) {
         Arrays.sort(tasks);
         Arrays.sort(workers);
-        int left = 1, right = Math.min(m, n), ans = 0;
-        while (left <= right) {
-            int mid = (left + right) / 2;
-            if (check(tasks, workers, pills, strength, mid)) {
-                ans = mid;
-                left = mid + 1;
+        int low = 0, high = Math.min(tasks.length, workers.length);
+
+        while (low < high) {
+            int mid = (low + high + 1) / 2;
+            if (canAssign(tasks, workers, pills, strength, mid)) {
+                low = mid;
             } else {
-                right = mid - 1;
+                high = mid - 1;
             }
         }
-        return ans;
+
+        return low;
     }
 
-    // Check if pills and strength can be used in mid tasks
-    private boolean check(
-        int[] tasks,
-        int[] workers,
-        int pills,
-        int strength,
-        int mid
-    ) {
-        int p = pills;
-        int m = workers.length;
-        Deque<Integer> ws = new ArrayDeque<>();
-        int ptr = m - 1;
-        // Enumerate each task from largest to smallest
-        for (int i = mid - 1; i >= 0; --i) {
-            while (ptr >= m - mid && workers[ptr] + strength >= tasks[i]) {
-                ws.addFirst(workers[ptr]);
-                --ptr;
-            }
-            if (ws.isEmpty()) {
-                return false;
-            } else if (ws.getLast() >= tasks[i]) {
-                // If the largest element in the deque is greater than or equal to tasks[i]
-                ws.pollLast();
+    private boolean canAssign(int[] tasks, int[] workers, int pills, int strength, int taskCount) {
+        Deque<Integer> boosted = new ArrayDeque<>();
+        int w = workers.length - 1;
+        int freePills = pills;
+
+        for (int t = taskCount - 1; t >= 0; t--) {
+            int task = tasks[t];
+
+            if (!boosted.isEmpty() && boosted.peekFirst() >= task) {
+                boosted.pollFirst();
+            } else if (w >= 0 && workers[w] >= task) {
+                w--;
             } else {
-                if (p == 0) {
+                while (w >= 0 && workers[w] + strength >= task) {
+                    boosted.addLast(workers[w--]);
+                }
+                if (boosted.isEmpty() || freePills == 0) {
                     return false;
                 }
-                --p;
-                ws.pollFirst();
+                boosted.pollLast();
+                freePills--;
             }
         }
+
         return true;
     }
 }
