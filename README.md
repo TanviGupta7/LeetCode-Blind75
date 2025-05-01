@@ -72,6 +72,7 @@ Leetcode Blind75 in Java
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0131-palindrome-partitioning) |
 | [2470-removing-stars-from-a-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2470-removing-stars-from-a-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -152,6 +153,7 @@ Leetcode Blind75 in Java
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0125-valid-palindrome) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
