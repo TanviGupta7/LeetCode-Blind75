@@ -61,6 +61,7 @@ Leetcode Blind75 in Java
 | [0022-generate-parentheses](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0131-palindrome-partitioning) |
+| [0868-push-dominoes](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0868-push-dominoes) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Memoization
@@ -75,6 +76,7 @@ Leetcode Blind75 in Java
 | [0038-count-and-say](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0131-palindrome-partitioning) |
+| [0868-push-dominoes](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0868-push-dominoes) |
 | [2470-removing-stars-from-a-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2470-removing-stars-from-a-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Backtracking
@@ -156,6 +158,7 @@ Leetcode Blind75 in Java
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0125-valid-palindrome) |
+| [0868-push-dominoes](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0868-push-dominoes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
