@@ -48,6 +48,7 @@ Leetcode Blind75 in Java
 | ------- |
 | [0070-climbing-stairs](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0070-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0797-rabbits-in-forest) |
+| [1013-fibonacci-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2050-count-good-numbers) |
@@ -62,12 +63,14 @@ Leetcode Blind75 in Java
 | [0070-climbing-stairs](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0131-palindrome-partitioning) |
 | [0868-push-dominoes](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0868-push-dominoes) |
+| [1013-fibonacci-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1013-fibonacci-number) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -110,6 +113,7 @@ Leetcode Blind75 in Java
 ## Recursion
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2050-count-good-numbers) |
 ## Stack
 |  |
