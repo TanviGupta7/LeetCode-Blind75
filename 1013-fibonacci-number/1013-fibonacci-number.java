@@ -1,14 +1,20 @@
-class Solution { //tail recursion
+class Solution { // tail recursion beats 100%
     public int fib(int n) {
-        return fibhelper(n, 0, 1); // Start with F(0)=0, F(1)=1
+        return fibhelper(n, 0, 1); // Start the recursion with F(0) = 0 and F(1) = 1
     }
-
+    
     public static int fibhelper(int n, int a, int b) {
-        if(n == 0) return a;
-        if(n == 1) return b;
-        return fibhelper(n - 1, b, a + b);
+        if (n == 0) {
+            return a;  // Base case: return the value of 'a' (F(0) or the nth Fibonacci)
+        }
+        if (n == 1) {
+            return b;  // Base case: return the value of 'b' (F(1) or the nth Fibonacci)
+        }
+        // Recursive call: move to the next Fibonacci number
+        return fibhelper(n - 1, b, a + b); // a becomes b, and b becomes a + b (F(n) = F(n-1) + F(n-2))
     }
 }
+
 
 /* iteration beats 100%
 class Solution {
