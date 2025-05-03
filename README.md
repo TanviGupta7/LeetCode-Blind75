@@ -14,6 +14,7 @@ Leetcode Blind75 in Java
 | [0090-subsets-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0485-max-consecutive-ones) |
 | [0797-rabbits-in-forest](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1421-find-numbers-with-even-number-of-digits) |
