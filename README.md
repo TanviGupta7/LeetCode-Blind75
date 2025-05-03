@@ -12,6 +12,7 @@ Leetcode Blind75 in Java
 | [0051-n-queens](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0090-subsets-ii) |
+| [0169-majority-element](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0485-max-consecutive-ones) |
@@ -38,6 +39,7 @@ Leetcode Blind75 in Java
 | ------- |
 | [0001-two-sum](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1500-count-largest-group) |
@@ -140,6 +142,7 @@ Leetcode Blind75 in Java
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0169-majority-element) |
 | [2280-count-good-triplets-in-an-array](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
@@ -174,6 +177,7 @@ Leetcode Blind75 in Java
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0268-missing-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -203,4 +207,8 @@ Leetcode Blind75 in Java
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
