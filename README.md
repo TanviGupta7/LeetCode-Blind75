@@ -13,6 +13,7 @@ Leetcode Blind75 in Java
 | [0078-subsets](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0216-combination-sum-iii) |
+| [0268-missing-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -36,6 +37,7 @@ Leetcode Blind75 in Java
 | ------- |
 | [0001-two-sum](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0268-missing-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1500-count-largest-group) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -48,6 +50,7 @@ Leetcode Blind75 in Java
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -100,6 +103,7 @@ Leetcode Blind75 in Java
 | ------- |
 | [0078-subsets](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0268-missing-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -127,6 +131,7 @@ Leetcode Blind75 in Java
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0268-missing-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -168,6 +173,7 @@ Leetcode Blind75 in Java
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0268-missing-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
