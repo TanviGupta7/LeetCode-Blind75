@@ -18,6 +18,7 @@ Leetcode Blind75 in Java
 | [0485-max-consecutive-ones](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0485-max-consecutive-ones) |
 | [0797-rabbits-in-forest](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1656-count-good-triplets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -42,6 +43,7 @@ Leetcode Blind75 in Java
 | [0169-majority-element](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0797-rabbits-in-forest) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1500-count-largest-group) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -211,4 +213,5 @@ Leetcode Blind75 in Java
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0169-majority-element) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1227-number-of-equivalent-domino-pairs) |
 <!---LeetCode Topics End-->
