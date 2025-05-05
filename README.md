@@ -75,6 +75,7 @@ Leetcode Blind75 in Java
 | [0022-generate-parentheses](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0131-palindrome-partitioning) |
+| [0806-domino-and-tromino-tiling](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1013-fibonacci-number) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2415-count-the-number-of-ideal-arrays) |
