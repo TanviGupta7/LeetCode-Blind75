@@ -7,6 +7,7 @@ Leetcode Blind75 in Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0051-n-queens) |
@@ -139,6 +140,7 @@ Leetcode Blind75 in Java
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0792-binary-search) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
