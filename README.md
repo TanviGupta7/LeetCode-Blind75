@@ -24,6 +24,7 @@ Leetcode Blind75 in Java
 | [1227-number-of-equivalent-domino-pairs](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1656-count-good-triplets) |
+| [2048-build-array-from-permutation](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -137,6 +138,7 @@ Leetcode Blind75 in Java
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2048-build-array-from-permutation) |
 | [2470-removing-stars-from-a-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2470-removing-stars-from-a-string) |
 ## Binary Search
 |  |
