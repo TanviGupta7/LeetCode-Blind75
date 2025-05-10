@@ -50,6 +50,7 @@ Leetcode Blind75 in Java
 | [0001-two-sum](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0560-subarray-sum-equals-k) |
 | [0797-rabbits-in-forest](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0797-rabbits-in-forest) |
@@ -102,6 +103,7 @@ Leetcode Blind75 in Java
 | [0125-valid-palindrome](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0205-isomorphic-strings) |
 | [0868-push-dominoes](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0868-push-dominoes) |
 | [1078-remove-outermost-parentheses](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1078-remove-outermost-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2470-removing-stars-from-a-string) |
