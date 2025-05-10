@@ -99,6 +99,7 @@ Leetcode Blind75 in Java
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0131-palindrome-partitioning) |
@@ -199,6 +200,7 @@ Leetcode Blind75 in Java
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0151-reverse-words-in-a-string) |
 | [0868-push-dominoes](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0868-push-dominoes) |
@@ -262,4 +264,8 @@ Leetcode Blind75 in Java
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
