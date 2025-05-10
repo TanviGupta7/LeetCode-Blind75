@@ -3,17 +3,15 @@ class Solution {
         int i, l;
         String w = "", result = "";
         char ch;
-        
-        s = s.trim();  // Remove leading and trailing spaces
-        s = " " + s;   // Add a space at the beginning for easy word detection
+        s = s.trim();  
+        s = " " + s;  
         l = s.length();
 
-        // Iterate backwards through the string
-        for (i = l-1; i >= 0; i--) {  // Notice the change: Use 'l' instead of 'l-1'
-            ch = s.charAt(i);  // Get the current character
+        for (i = l-1; i >= 0; i--) {  
+            ch = s.charAt(i); 
             if (ch != ' ') {
-                w = ch + w;  // Add the character to the word
-            } else {
+                w = ch + w;  // Add reverse word
+            }  else {
                 if (!w.isEmpty()) {  // Only add the word if it's not empty
                     result += w + " ";  // Add the word followed by a space
                     w = "";  // Reset the word
@@ -21,7 +19,6 @@ class Solution {
             }
         }
 
-        // Return the result after trimming any trailing space
         return result.trim();
     }
 }
