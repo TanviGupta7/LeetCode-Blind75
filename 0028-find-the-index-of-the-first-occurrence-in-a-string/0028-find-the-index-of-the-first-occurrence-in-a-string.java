@@ -1,5 +1,11 @@
 class Solution {
     public int strStr(String haystack, String needle) {
+        return haystack.indexOf(needle);
+    }
+}
+
+/*class Solution {
+    public int strStr(String haystack, String needle) {
         // Edge case: if needle is empty, return 0
         if (needle.isEmpty()) {
             return 0;
@@ -59,3 +65,4 @@ class Solution {
         }
     }
 }
+*/
