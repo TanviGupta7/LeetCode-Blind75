@@ -1,25 +1,13 @@
 class Solution {
     public String reverseWords(String s) {
-       
-        // Remove leading/trailing spaces and reduce multiple spaces to one
-        s = s.trim().replaceAll("\\s+", " ");
-        
-        // Split the cleaned string by single space
-        String[] words = s.split(" ");
-        
-        // Use StringBuilder for efficient string manipulation
+        String[] words = s.trim().split("\\s+");
         StringBuilder result = new StringBuilder();
-        
-        // Append words in reverse order
         for (int i = words.length - 1; i >= 0; i--) {
-            result.append(words[i]);
-            if (i != 0) result.append(" ");
+            result.append(words[i]).append(i > 0 ? " " : "");
         }
-        
         return result.toString();
     }
 }
-
     
 
         /* Approach 1 beats 5%
