@@ -1,10 +1,6 @@
-/*
-    public int strStr(String haystack, String needle) {
-        return haystack.indexOf(needle);
-    }} */
 class Solution {
     public int strStr(String haystack, String needle) {
-        int n = haystack.length();
+       int n = haystack.length();
         int m = needle.length();
 
         if (m == 0) return 0;
@@ -15,11 +11,11 @@ class Solution {
             }
         }
 
-        return -1;
+        return -1; 
     }
 }
-
-/* Approach 2 using LPS 
+// Approach 2 beats 100%: return haystack.indexOf(needle); 
+/* Approach 3 using LPS 
 class Solution {
     public int strStr(String haystack, String needle) {
         // Edge case: if needle is empty, return 0
