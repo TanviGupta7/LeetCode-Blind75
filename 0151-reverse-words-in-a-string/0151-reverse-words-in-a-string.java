@@ -1,45 +1,26 @@
 class Solution {
     public String reverseWords(String s) {
+       
+        // Remove leading/trailing spaces and reduce multiple spaces to one
         s = s.trim().replaceAll("\\s+", " ");
-
-        int left = 0;
-        int right = s.length() - 1;
-
-        String temp = "";  // To store the current word
-        String ans = "";   // To store the final result
-
-        // Iterate through the string to process each word
-        while (left <= right) {
-            char ch = s.charAt(left);
-            
-            // If character is not a space, add to the current word (temp)
-            if (ch != ' ') {
-                temp += ch;
-            }
-            // If character is a space, add the current word to the result (ans)
-            else if (ch == ' ') {
-                if (!ans.equals("")) {
-                    ans = temp + " " + ans;  // Add the word with a space
-                } else {
-                    ans = temp;  // For the first word, just assign to ans
-                }
-                temp = "";  // Reset the current word
-            }
-            left++;
+        
+        // Split the cleaned string by single space
+        String[] words = s.split(" ");
+        
+        // Use StringBuilder for efficient string manipulation
+        StringBuilder result = new StringBuilder();
+        
+        // Append words in reverse order
+        for (int i = words.length - 1; i >= 0; i--) {
+            result.append(words[i]);
+            if (i != 0) result.append(" ");
         }
-
-        // If there is any remaining word in temp, add it to the result
-        if (!temp.equals("")) {
-            if (!ans.equals("")) {
-                ans = temp + " " + ans;
-            } else {
-                ans = temp;
-            }
-        }
-
-        return ans.trim();  // Return the final result with words reversed
+        
+        return result.toString();
     }
 }
+
+    
 
         /* Approach 1 beats 5%
         int i, l;
@@ -90,4 +71,44 @@ class Solution {
 	ans += st.peek(); // The last word should'nt have a space after it
     return ans.trim();
     }
-}*/
+}
+Approach 3- beats 5%
+ s = s.trim().replaceAll("\\s+", " ");
+
+        int left = 0;
+        int right = s.length() - 1;
+
+        String temp = "";  // To store the current word
+        String ans = "";   // To store the final result
+
+        // Iterate through the string to process each word
+        while (left <= right) {
+            char ch = s.charAt(left);
+            
+            // If character is not a space, add to the current word (temp)
+            if (ch != ' ') {
+                temp += ch;
+            }
+            // If character is a space, add the current word to the result (ans)
+            else if (ch == ' ') {
+                if (!ans.equals("")) {
+                    ans = temp + " " + ans;  // Add the word with a space
+                } else {
+                    ans = temp;  // For the first word, just assign to ans
+                }
+                temp = "";  // Reset the current word
+            }
+            left++;
+        }
+
+        // If there is any remaining word in temp, add it to the result
+        if (!temp.equals("")) {
+            if (!ans.equals("")) {
+                ans = temp + " " + ans;
+            } else {
+                ans = temp;
+            }
+        }
+
+        return ans.trim();  // Return the final result with words reversed*/
+
