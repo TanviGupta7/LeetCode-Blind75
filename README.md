@@ -271,4 +271,16 @@ Leetcode Blind75 in Java
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
