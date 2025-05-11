@@ -38,6 +38,7 @@ Leetcode Blind75 in Java
 | [2699-count-the-number-of-fair-pairs](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2915-count-of-interesting-subarrays) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -218,6 +219,7 @@ Leetcode Blind75 in Java
 | [0797-rabbits-in-forest](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Prefix Sum
 |  |
 | ------- |
