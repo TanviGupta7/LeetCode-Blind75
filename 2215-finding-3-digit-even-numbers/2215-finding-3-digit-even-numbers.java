@@ -1,34 +1,30 @@
-import java.util.*;
+public class Solution {
 
-class Solution {
     public int[] findEvenNumbers(int[] digits) {
-        Set<Integer> result = new TreeSet<>();
-
-        for (int i = 0; i < digits.length; i++) {
-            for (int j = 0; j < digits.length; j++) {
-                for (int k = 0; k < digits.length; k++) {
-                    if (i != j && j != k && i != k) {
-                        int hundreds = digits[i];
-                        int tens = digits[j];
-                        int units = digits[k];
-
-                        if (hundreds == 0) continue; // No leading 0
-                        if (units % 2 != 0) continue; // Must be even
-
-                        int number = hundreds * 100 + tens * 10 + units;
-                        result.add(number);
+        Set<Integer> nums = new HashSet<>();
+        int n = digits.length;
+        // Traverse the indices of three digits
+        for (int i = 0; i < n; ++i) {
+            for (int j = 0; j < n; ++j) {
+                for (int k = 0; k < n; ++k) {
+                    // Determine whether it meets the condition of the target even number
+                    if (i == j || j == k || i == k) {
+                        continue;
+                    }
+                    int num = digits[i] * 100 + digits[j] * 10 + digits[k];
+                    if (num >= 100 && num % 2 == 0) {
+                        nums.add(num);
                     }
                 }
             }
         }
-
-        // Convert Set to int[]
-        int[] finalResult = new int[result.size()];
-        int index = 0;
-        for (int num : result) {
-            finalResult[index++] = num;
+        // Converted to an array sorted in ascending order
+        List<Integer> res = new ArrayList<>(nums);
+        Collections.sort(res);
+        int[] result = new int[res.size()];
+        for (int i = 0; i < res.size(); ++i) {
+            result[i] = res.get(i);
         }
-
-        return finalResult;
+        return result;
     }
 }
