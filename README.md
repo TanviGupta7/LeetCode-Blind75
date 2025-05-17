@@ -13,6 +13,7 @@ Leetcode Blind75 in Java
 | [0039-combination-sum](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0051-n-queens) |
+| [0075-sort-colors](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0090-subsets-ii) |
@@ -220,6 +221,7 @@ Leetcode Blind75 in Java
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0151-reverse-words-in-a-string) |
 | [0868-push-dominoes](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0868-push-dominoes) |
@@ -227,6 +229,7 @@ Leetcode Blind75 in Java
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0268-missing-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
