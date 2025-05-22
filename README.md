@@ -13,6 +13,7 @@ Leetcode Blind75 in Java
 | [0039-combination-sum](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0051-n-queens) |
+| [0073-set-matrix-zeroes](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -56,6 +57,7 @@ Leetcode Blind75 in Java
 | ------- |
 | [0001-two-sum](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0268-missing-number) |
@@ -288,6 +290,7 @@ Leetcode Blind75 in Java
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0073-set-matrix-zeroes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
