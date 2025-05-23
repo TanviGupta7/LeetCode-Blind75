@@ -46,6 +46,7 @@ Leetcode Blind75 in Java
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3321-type-of-triangle) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -107,6 +108,7 @@ Leetcode Blind75 in Java
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3637-count-number-of-balanced-permutations) |
@@ -153,6 +155,7 @@ Leetcode Blind75 in Java
 | [0078-subsets](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0268-missing-number) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Enumeration
 |  |
 | ------- |
@@ -241,6 +244,7 @@ Leetcode Blind75 in Java
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2215-finding-3-digit-even-numbers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3647-zero-array-transformation-iii) |
 ## Greedy
@@ -251,6 +255,7 @@ Leetcode Blind75 in Java
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3647-zero-array-transformation-iii) |
 ## Prefix Sum
 |  |
@@ -312,6 +317,7 @@ Leetcode Blind75 in Java
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0784-insert-into-a-binary-search-tree) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Binary Search Tree
 |  |
 | ------- |
