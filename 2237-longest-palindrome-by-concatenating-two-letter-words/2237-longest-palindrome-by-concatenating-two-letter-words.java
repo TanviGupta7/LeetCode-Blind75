@@ -1,0 +1,38 @@
+class Solution {
+    public int longestPalindrome(String[] words) {
+        Map<String, Integer> countMap = new HashMap<>();
+        int length = 0;
+        boolean usedMiddle = false;
+
+        // Count frequency of each word
+        for (String word : words) {
+            countMap.put(word, countMap.getOrDefault(word, 0) + 1);
+        }
+
+        for (String word : countMap.keySet()) {
+            String reversed = new StringBuilder(word).reverse().toString();
+
+            if (word.equals(reversed)) {
+                int freq = countMap.get(word);
+                int pairs = freq / 2;
+                length += pairs * 4;
+                countMap.put(word, freq % 2); // update remaining count
+
+                if (!usedMiddle && countMap.get(word) > 0) {
+                    length += 2;
+                    usedMiddle = true;
+                }
+
+            } else if (countMap.containsKey(reversed)) {
+                int freq1 = countMap.get(word);
+                int freq2 = countMap.get(reversed);
+                int pairs = Math.min(freq1, freq2);
+                length += pairs * 4;
+                countMap.put(word, freq1 - pairs);
+                countMap.put(reversed, freq2 - pairs);
+            }
+        }
+
+        return length;
+    }
+}
