@@ -331,6 +331,7 @@ Leetcode Blind75 in Java
 | [0783-search-in-a-binary-search-tree](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0784-insert-into-a-binary-search-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -345,4 +346,12 @@ Leetcode Blind75 in Java
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Depth-First Search
+|  |
+| ------- |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 <!---LeetCode Topics End-->
