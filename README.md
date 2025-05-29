@@ -332,6 +332,7 @@ Leetcode Blind75 in Java
 | [0784-insert-into-a-binary-search-tree](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0784-insert-into-a-binary-search-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -350,8 +351,10 @@ Leetcode Blind75 in Java
 |  |
 | ------- |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 <!---LeetCode Topics End-->
