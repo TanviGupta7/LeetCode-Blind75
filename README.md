@@ -18,6 +18,7 @@ Leetcode Blind75 in Java
 | [0078-subsets](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0090-subsets-ii) |
+| [0135-candy](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0268-missing-number) |
@@ -263,6 +264,7 @@ Leetcode Blind75 in Java
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
