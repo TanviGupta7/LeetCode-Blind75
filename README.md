@@ -140,6 +140,7 @@ Leetcode Blind75 in Java
 | [0151-reverse-words-in-a-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0205-isomorphic-strings) |
 | [0868-push-dominoes](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0868-push-dominoes) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1078-remove-outermost-parentheses) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2470-removing-stars-from-a-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2470-removing-stars-from-a-string) |
@@ -373,4 +374,8 @@ Leetcode Blind75 in Java
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+## Union Find
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1058-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
