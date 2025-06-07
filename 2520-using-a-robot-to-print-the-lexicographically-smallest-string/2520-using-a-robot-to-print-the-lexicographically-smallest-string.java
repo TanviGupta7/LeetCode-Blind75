@@ -1,24 +1,25 @@
 class Solution {
+
     public String robotWithString(String s) {
-        int[] freq = new int[26];
-        for (char c : s.toCharArray()) freq[c - 'a']++;
+        int[] cnt = new int[26];
+        for (char c : s.toCharArray()) {
+            cnt[c - 'a']++;
+        }
 
-        StringBuilder res = new StringBuilder();
         Stack<Character> stack = new Stack<>();
-        char min = 'a';
-
+        StringBuilder res = new StringBuilder();
+        char minCharacter = 'a';
         for (char c : s.toCharArray()) {
             stack.push(c);
-            freq[c - 'a']--;
-
-            while (min <= 'z' && freq[min - 'a'] == 0) min++;
-
-            while (!stack.isEmpty() && stack.peek() <= min) {
+            cnt[c - 'a']--;
+            while (minCharacter != 'z' && cnt[minCharacter - 'a'] == 0) {
+                minCharacter++;
+            }
+            while (!stack.isEmpty() && stack.peek() <= minCharacter) {
                 res.append(stack.pop());
             }
         }
 
-        while (!stack.isEmpty()) res.append(stack.pop());
         return res.toString();
     }
 }
