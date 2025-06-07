@@ -1,25 +1,42 @@
+import java.util.*;
+
 class Solution {
-
     public String robotWithString(String s) {
-        int[] cnt = new int[26];
-        for (char c : s.toCharArray()) {
-            cnt[c - 'a']++;
-        }
-
         Stack<Character> stack = new Stack<>();
-        StringBuilder res = new StringBuilder();
-        char minCharacter = 'a';
-        for (char c : s.toCharArray()) {
-            stack.push(c);
-            cnt[c - 'a']--;
-            while (minCharacter != 'z' && cnt[minCharacter - 'a'] == 0) {
-                minCharacter++;
-            }
-            while (!stack.isEmpty() && stack.peek() <= minCharacter) {
-                res.append(stack.pop());
+        int[] freq = new int[26];
+        
+        // Count frequency of each character
+        for (char ch : s.toCharArray()) {
+            freq[ch - 'a']++;
+        }
+        
+        StringBuilder t = new StringBuilder();
+
+        for (char ch : s.toCharArray()) {
+            stack.push(ch);
+            freq[ch - 'a']--;
+
+            // Check if we can pop the top of the stack
+            while (!stack.isEmpty() && stack.peek() <= smallestChar(freq)) {
+                t.append(stack.pop());
             }
         }
 
-        return res.toString();
+        // Append remaining characters from stack
+        while (!stack.isEmpty()) {
+            t.append(stack.pop());
+        }
+
+        return t.toString();
+    }
+
+    // Helper function to find the smallest character still available
+    private char smallestChar(int[] freq) {
+        for (int i = 0; i < 26; i++) {
+            if (freq[i] > 0) {
+                return (char) ('a' + i);
+            }
+        }
+        return 'a';
     }
 }
