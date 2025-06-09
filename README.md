@@ -387,4 +387,8 @@ Leetcode Blind75 in Java
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Trie
+|  |
+| ------- |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
