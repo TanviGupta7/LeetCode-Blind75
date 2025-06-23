@@ -143,6 +143,7 @@ Leetcode Blind75 in Java
 | [0151-reverse-words-in-a-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0205-isomorphic-strings) |
 | [0868-push-dominoes](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0868-push-dominoes) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1078-remove-outermost-parentheses) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -201,6 +202,7 @@ Leetcode Blind75 in Java
 ## Stack
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1078-remove-outermost-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -279,6 +281,7 @@ Leetcode Blind75 in Java
 | ------- |
 | [0135-candy](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0797-rabbits-in-forest) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
