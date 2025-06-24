@@ -202,6 +202,7 @@ Leetcode Blind75 in Java
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0232-implement-queue-using-stacks) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1078-remove-outermost-parentheses) |
 | [2470-removing-stars-from-a-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2470-removing-stars-from-a-string) |
@@ -306,6 +307,7 @@ Leetcode Blind75 in Java
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0232-implement-queue-using-stacks) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
@@ -397,4 +399,8 @@ Leetcode Blind75 in Java
 |  |
 | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
