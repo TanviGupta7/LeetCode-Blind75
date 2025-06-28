@@ -137,6 +137,7 @@ Leetcode Blind75 in Java
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0038-count-and-say) |
@@ -204,6 +205,7 @@ Leetcode Blind75 in Java
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0232-implement-queue-using-stacks) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1078-remove-outermost-parentheses) |
