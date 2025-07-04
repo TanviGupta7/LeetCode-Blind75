@@ -411,4 +411,8 @@ Leetcode Blind75 in Java
 | ------- |
 | [0155-min-stack](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0232-implement-queue-using-stacks) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
