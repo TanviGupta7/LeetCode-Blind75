@@ -27,6 +27,7 @@ Leetcode Blind75 in Java
 | [0792-binary-search](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0797-rabbits-in-forest) |
 | [0945-snakes-and-ladders](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0945-snakes-and-ladders) |
+| [1036-rotting-oranges](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1036-rotting-oranges) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1293-three-consecutive-odds) |
@@ -352,6 +353,7 @@ Leetcode Blind75 in Java
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0945-snakes-and-ladders) |
+| [1036-rotting-oranges](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1036-rotting-oranges) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
@@ -395,6 +397,7 @@ Leetcode Blind75 in Java
 |  |
 | ------- |
 | [0945-snakes-and-ladders](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0945-snakes-and-ladders) |
+| [1036-rotting-oranges](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1036-rotting-oranges) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
