@@ -20,6 +20,7 @@ Leetcode Blind75 in Java
 | [0090-subsets-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0090-subsets-ii) |
 | [0135-candy](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0485-max-consecutive-ones) |
@@ -352,6 +353,7 @@ Leetcode Blind75 in Java
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0200-number-of-islands) |
 | [0945-snakes-and-ladders](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1036-rotting-oranges) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -390,12 +392,14 @@ Leetcode Blind75 in Java
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0200-number-of-islands) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0200-number-of-islands) |
 | [0945-snakes-and-ladders](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1036-rotting-oranges) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -404,6 +408,7 @@ Leetcode Blind75 in Java
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0200-number-of-islands) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1058-lexicographically-smallest-equivalent-string) |
 ## Trie
 |  |
