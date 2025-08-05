@@ -1,40 +1,25 @@
-import java.util.*;
-
 class Solution {
     public boolean validPath(int n, int[][] edges, int source, int destination) {
-        // Step 1: Create adjacency list using your style
-        ArrayList<ArrayList<Integer>> adj = new ArrayList<>(); // ✅ Fixed syntax
-
-        for (int i = 0; i < n; i++) {
-            adj.add(new ArrayList<>()); // initialize inner lists
-        }
+        int[] parent = new int[n];
+        for (int i = 0; i < n; i++) parent[i] = i; // each node is its own parent
 
         for (int[] edge : edges) {
-            int u = edge[0];
-            int v = edge[1];
-            adj.get(u).add(v); // ✅ corrected u.add(v) → get(u).add(v)
-            adj.get(v).add(u);
+            union(edge[0], edge[1], parent);
         }
 
-        // Step 2: DFS traversal using your pattern
-        boolean[] vis = new boolean[n]; // ✅ Should be of size n (not edges.length)
-
-        return dfs(source, destination, adj, vis); // use helper DFS function
+        return find(source, parent) == find(destination, parent);
     }
 
-    // Your logic for DFS
-    private boolean dfs(int current, int destination, ArrayList<ArrayList<Integer>> adj, boolean[] vis) {
-        if (current == destination) return true;
-        vis[current] = true;
+    private int find(int x, int[] parent) {
+        if (parent[x] != x)
+            parent[x] = find(parent[x], parent); // path compression
+        return parent[x];
+    }
 
-        for (int neighbor : adj.get(current)) {
-            if (!vis[neighbor]) {
-                if (dfs(neighbor, destination, adj, vis)) {
-                    return true;
-                }
-            }
-        }
-
-        return false;
+    private void union(int u, int v, int[] parent) {
+        int pu = find(u, parent);
+        int pv = find(v, parent);
+        if (pu != pv)
+            parent[pu] = pv;
     }
 }
