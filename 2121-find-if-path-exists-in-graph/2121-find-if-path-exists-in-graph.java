@@ -1,43 +1,50 @@
 class Solution {
     public boolean validPath(int n, int[][] edges, int source, int destination) {
+        // Step 1: Initialize parent and rank arrays
+        int[] parent = new int[n]; // parent[i] = parent of node i
+        int[] rank = new int[n];   // rank[i] = depth of the tree rooted at i
 
-        // Step 1: Create a parent array to represent each node's parent
-        int[] parent = new int[n];
-
-        // Step 2: Initially, each node is its own parent (i.e., its own set)
+        // Step 2: Initially, each node is its own parent (self root)
         for (int i = 0; i < n; i++) {
-            parent[i] = i;  // Node i is the root of its own set
+            parent[i] = i;
+            rank[i] = 0; // All trees start with rank 0
         }
 
-        // Step 3: Union step — go through each edge and merge the sets
+        // Step 3: Union operation for all edges
         for (int[] edge : edges) {
-            int u = edge[0];  // first node in the edge
-            int v = edge[1];  // second node in the edge
-            union(u, v, parent);  // connect their sets
+            int u = edge[0];
+            int v = edge[1];
+            union(u, v, parent, rank); // Connect the two nodes
         }
 
-        // Step 4: After all unions, check if source and destination have the same parent
+        // Step 4: Check if source and destination have the same root
         return find(source, parent) == find(destination, parent);
     }
 
-    // \U0001f50d Find operation: returns the root parent of a node
-    private int find(int x, int[] parent) {
-        if (parent[x] != x) {
-            // Path compression step: flatten the tree by pointing node directly to its root
-            parent[x] = find(parent[x], parent);
+    // Path Compression: Recursively find the root and compress the path
+    private int find(int node, int[] parent) {
+        if (parent[node] != node) {
+            // Recurse to find root, then set current node's parent to root
+            parent[node] = find(parent[node], parent);
         }
-        return parent[x]; // The root parent (or representative) of node x
+        return parent[node]; // Return the root
     }
 
-    // \U0001f517 Union operation: connects two nodes by merging their sets
-    private void union(int u, int v, int[] parent) {
-        int pu = find(u, parent); // Find the root of u
-        int pv = find(v, parent); // Find the root of v
+    // Union by Rank: Attach smaller tree under the root of the bigger tree
+    private void union(int u, int v, int[] parent, int[] rank) {
+        int rootU = find(u, parent); // Find root of u
+        int rootV = find(v, parent); // Find root of v
 
-        if (pu != pv) {
-            // If roots are different, connect them
-            // You can connect pv to pu or pu to pv — both are valid (no rank optimization here)
-            parent[pu] = pv;
+        if (rootU == rootV) return; // Already connected, do nothing
+
+        // Attach lower rank tree under higher rank tree
+        if (rank[rootU] < rank[rootV]) {
+            parent[rootU] = rootV; // rootV becomes parent
+        } else if (rank[rootU] > rank[rootV]) {
+            parent[rootV] = rootU; // rootU becomes parent
+        } else {
+            parent[rootV] = rootU; // Either one can become parent
+            rank[rootU]++;         // Increase rank of new root
         }
     }
 }
