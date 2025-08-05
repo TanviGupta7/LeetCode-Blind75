@@ -2,30 +2,39 @@ import java.util.*;
 
 class Solution {
     public boolean validPath(int n, int[][] edges, int source, int destination) {
-        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
-        for (int i = 0; i < n; i++) adj.add(new ArrayList<>());
+        // Step 1: Create adjacency list using your style
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>(); // ✅ Fixed syntax
 
-        for (int[] edge : edges) {
-            adj.get(edge[0]).add(edge[1]);
-            adj.get(edge[1]).add(edge[0]);
+        for (int i = 0; i < n; i++) {
+            adj.add(new ArrayList<>()); // initialize inner lists
         }
 
-        boolean[] vis = new boolean[n];
-        Queue<Integer> q = new LinkedList<>();
-        q.add(source);
-        vis[source] = true;
+        for (int[] edge : edges) {
+            int u = edge[0];
+            int v = edge[1];
+            adj.get(u).add(v); // ✅ corrected u.add(v) → get(u).add(v)
+            adj.get(v).add(u);
+        }
 
-        while (!q.isEmpty()) {
-            int curr = q.poll();
-            if (curr == destination) return true;
+        // Step 2: DFS traversal using your pattern
+        boolean[] vis = new boolean[n]; // ✅ Should be of size n (not edges.length)
 
-            for (int neighbor : adj.get(curr)) {
-                if (!vis[neighbor]) {
-                    vis[neighbor] = true;
-                    q.add(neighbor);
+        return dfs(source, destination, adj, vis); // use helper DFS function
+    }
+
+    // Your logic for DFS
+    private boolean dfs(int current, int destination, ArrayList<ArrayList<Integer>> adj, boolean[] vis) {
+        if (current == destination) return true;
+        vis[current] = true;
+
+        for (int neighbor : adj.get(current)) {
+            if (!vis[neighbor]) {
+                if (dfs(neighbor, destination, adj, vis)) {
+                    return true;
                 }
             }
         }
+
         return false;
     }
 }
