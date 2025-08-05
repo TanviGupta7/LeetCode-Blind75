@@ -1,33 +1,31 @@
+import java.util.*;
+
 class Solution {
     public boolean validPath(int n, int[][] edges, int source, int destination) {
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+        for (int i = 0; i < n; i++) adj.add(new ArrayList<>());
 
-        ArrayList<ArrayList<Integer>> adj=new ArrayList<>(); //create adj list
-        for(int i=0;i<n;i++){
-            adj.add(new ArrayList<>()); //initialize inner lists
+        for (int[] edge : edges) {
+            adj.get(edge[0]).add(edge[1]);
+            adj.get(edge[1]).add(edge[0]);
         }
-        for(int[] edge : edges){
-            int u=edge[0];
-            int v=edge[1];
-            adj.get(u).add(v); //adding both ways
-            adj.get(v).add(u);
-        }
-        boolean vis[]=new boolean[n];
-        return dfs(source,destination,adj,vis);
-    }
-    private boolean dfs(int source,int destination,ArrayList<ArrayList<Integer>> adj,boolean[] vis){
-        if(source==destination) return true;
-        vis[source]=true;
 
-        for(int neighbour:adj.get(source)){
-            if(!vis[neighbour]){
-                if(dfs(neighbour,destination,adj,vis))
-                return true;
+        boolean[] vis = new boolean[n];
+        Queue<Integer> q = new LinkedList<>();
+        q.add(source);
+        vis[source] = true;
+
+        while (!q.isEmpty()) {
+            int curr = q.poll();
+            if (curr == destination) return true;
+
+            for (int neighbor : adj.get(curr)) {
+                if (!vis[neighbor]) {
+                    vis[neighbor] = true;
+                    q.add(neighbor);
+                }
             }
         }
-    
-return false;
-
-}}
-        
-
-        
+        return false;
+    }
+}
