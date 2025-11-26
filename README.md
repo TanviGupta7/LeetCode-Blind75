@@ -25,6 +25,7 @@ Leetcode Blind75 in Java
 | [0200-number-of-islands](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0792-binary-search) |
@@ -275,6 +276,7 @@ Leetcode Blind75 in Java
 | [0125-valid-palindrome](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0283-move-zeroes) |
 | [0868-push-dominoes](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0868-push-dominoes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
