@@ -1,15 +1,14 @@
 class Solution {
     public void moveZeroes(int[] arr) {
-        int index = 0;
+        int j = 0; // Position where next non-zero will go
 
-        for (int num : arr) {
-            if (num != 0) {
-                arr[index++] = num;
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] != 0) {
+                int temp = arr[i];
+                arr[i] = arr[j];
+                arr[j] = temp;
+                j++;
             }
-        }
-
-        while (index < arr.length) {
-            arr[index++] = 0;
         }
     }
 }
