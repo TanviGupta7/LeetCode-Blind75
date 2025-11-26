@@ -36,6 +36,7 @@ Leetcode Blind75 in Java
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1656-count-good-triplets](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1656-count-good-triplets) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
