@@ -14,6 +14,7 @@ Leetcode Blind75 in Java
 | [0039-combination-sum](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0078-subsets) |
@@ -98,6 +99,7 @@ Leetcode Blind75 in Java
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0268-missing-number) |
