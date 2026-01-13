@@ -39,6 +39,7 @@ Leetcode Blind75 in Java
 | [1293-three-consecutive-odds](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1539-kth-missing-positive-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1539-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1656-count-good-triplets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2048-build-array-from-permutation) |
@@ -239,6 +240,7 @@ Leetcode Blind75 in Java
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0792-binary-search) |
+| [1539-kth-missing-positive-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1539-kth-missing-positive-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2394-count-subarrays-with-score-less-than-k) |
