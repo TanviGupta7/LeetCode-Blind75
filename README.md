@@ -30,6 +30,7 @@ Leetcode Blind75 in Java
 | [0283-move-zeroes](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0797-rabbits-in-forest) |
 | [0945-snakes-and-ladders](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0945-snakes-and-ladders) |
@@ -269,6 +270,7 @@ Leetcode Blind75 in Java
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0643-maximum-average-subarray-i) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2626-count-the-number-of-good-subarrays) |
