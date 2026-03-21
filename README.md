@@ -83,6 +83,7 @@ Leetcode Blind75 in Java
 | [0797-rabbits-in-forest](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1500-count-largest-group) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2215-finding-3-digit-even-numbers) |
@@ -162,6 +163,7 @@ Leetcode Blind75 in Java
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1078-remove-outermost-parentheses) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2470-removing-stars-from-a-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -271,6 +273,7 @@ Leetcode Blind75 in Java
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0643-maximum-average-subarray-i) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -344,6 +347,7 @@ Leetcode Blind75 in Java
 | ------- |
 | [0169-majority-element](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0169-majority-element) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3629-total-characters-in-string-after-transformations-i) |
