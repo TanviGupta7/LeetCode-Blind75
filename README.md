@@ -38,6 +38,7 @@ Leetcode Blind75 in Java
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1293-three-consecutive-odds) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1539-kth-missing-positive-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1539-kth-missing-positive-number) |
@@ -274,6 +275,7 @@ Leetcode Blind75 in Java
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2394-count-subarrays-with-score-less-than-k) |
