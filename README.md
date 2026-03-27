@@ -112,6 +112,7 @@ Leetcode Blind75 in Java
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2050-count-good-numbers) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2998-count-symmetric-integers](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -167,6 +168,7 @@ Leetcode Blind75 in Java
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2470-removing-stars-from-a-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -278,6 +280,7 @@ Leetcode Blind75 in Java
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/TanviGupta7/LeetCode-Blind75/tree/master/2626-count-the-number-of-good-subarrays) |
